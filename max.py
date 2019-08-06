@@ -1,2 +1,2 @@
-list=[8,5,6,3,7,9,10]
+list=[5,8,7]
 print(max(list))
